@@ -12,7 +12,7 @@
 
 Hi there, I'm **Kevin Alexander**, a **Systems Engineering Student** 🚀 from Guatemala. I have experience in the field of technology, which is growing every day, my favorite technologies are **CSS, JS, HTML** in the frontend area and on the backend side **Python, C #, JAVA , C ++,** but I am willing to learn any necessary technology.  
 
-  <img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fgifs%2Fplatzi-cursos-teamplatzi-platziconf-IaW2sIHyOKLkb1dRpi&psig=AOvVaw27AdPqsUF4fs4EnXnKC90T&ust=1612374522466000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKi-65Thy-4CFQAAAAAdAAAAABAI" />
+  <img align="right" alt="GIF" src="https://giphy.com/embed/IaW2sIHyOKLkb1dRpi" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/platzi-cursos-teamplatzi-platziconf-IaW2sIHyOKLkb1dRpi">via GIPHY</a></p>" />
 
 **Talking about Personal Stuffs:**
 
