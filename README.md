@@ -1,5 +1,3 @@
-### Hey 👋, I'm Kevinisky27
-
 ![banner](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
 
 <a href="https://www.instagram.com/kevininsky27/">
