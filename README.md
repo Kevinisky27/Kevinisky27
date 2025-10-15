@@ -1,58 +1,70 @@
 ![banner](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
 
-<a href="https://www.instagram.com/kevininsky27/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/kevinalexander.limarecinos">
-  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-
 <br />
 <br />
 
-## 👨‍💻 Sobre mí  
+## 👋 ¡Hola! Soy Kevin Alexander Lima Recinos
 
-Soy **Kevin Alexander Lima R.**, profesional en el área de tecnología, actualmente cursando un **Posgrado en Informática Forense**.  
-Me especializo en **análisis, preservación y recuperación de información digital**, con el fin de aplicarla en procesos de investigación y auditoría informática.  
-
-He liderado proyectos tecnológicos de gran impacto como **Kraken**, **Menchoo**, **SM ADMIN** y **KENNSA S.A.**, enfocándome en el desarrollo de soluciones innovadoras para distintos sectores.  
-
----
-
-## 🎯 Propósito Profesional  
-
-En un mundo donde la tecnología define la forma en que crecemos y nos comunicamos, mi objetivo es:  
-
-- Fortalecer la **seguridad informática** y la **gestión de datos sensibles**.  
-- Desarrollar herramientas que unan la **innovación tecnológica** con la **confianza social**.  
-- Aplicar metodologías éticas y profesionales que permitan generar **transparencia y valor real** en cada proyecto.  
+🎓 **Ingeniero en Sistemas** con especialización en **Desarrollo Full Stack con JavaScript**.  
+🔍 En proceso de **Posgrado en Informática Forense**, integrando seguridad, desarrollo y análisis de datos.  
+💡 Apasionado por crear soluciones tecnológicas que generen impacto real y promuevan la confianza digital.
 
 ---
 
-## 🚀 Tecnologías y habilidades  
+## 🚀 Sobre mí  
 
-- **Lenguajes:** Python, Java, C++, C#, JavaScript, SQL.  
-- **Frontend:** HTML5, CSS3, React, JS.  
-- **Backend:** Node.js, APIs REST, Firebase.  
-- **DevOps & Tools:** Git, GitHub, Docker, VS Code, Eclipse.  
-- **Especialización:** Informática Forense, Ethical Hacking, Auditoría de Sistemas, Derecho Informático.  
+He liderado proyectos tecnológicos de alto valor como **Kraken**, **Menchoo**, **SM ADMIN** y **KENNSA S.A.**, combinando ingeniería, desarrollo web y visión estratégica.  
+Mi enfoque profesional se centra en el **diseño, desarrollo y aseguramiento de soluciones escalables**, aplicando buenas prácticas y principios de arquitectura limpia.
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="280"/>
+---
+
+## 🛠️ Tecnologías y herramientas  
+
+**💻 Lenguajes:** JavaScript, Python, Java, C#, C++, SQL  
+**🌐 Frontend:** React, HTML5, CSS3, Vite, TailwindCSS  
+**⚙️ Backend:** Node.js, Express, APIs REST, Firebase  
+**🐳 DevOps & Tools:** Docker, Git, GitHub, VS Code, Postman  
+**🔐 Especialización:** Informática Forense, Ciberseguridad, Auditoría de Sistemas, Derecho Informático  
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="260"/>
+
+---
+
+## 🎯 En lo que creo  
+
+- La tecnología debe **crear soluciones, no solo resolver problemas**.  
+- El desarrollo de software es una herramienta para **construir el futuro**.  
+- La ética y la seguridad son pilares esenciales del progreso digital.  
 
 ---
 
 ## 🌱 Intereses  
 
-- Inteligencia Artificial aplicada a seguridad digital.  
-- Procesamiento de lenguaje natural y visión computacional.  
-- Ciberseguridad y pruebas de penetración (Ethical Hacking).  
-- Innovación tecnológica con impacto social.  
+- Inteligencia Artificial y su aplicación en seguridad digital.  
+- Ciberseguridad, análisis forense y auditoría tecnológica.  
+- Innovación, automatización y optimización de procesos.  
 
 ---
 
 ## 📊 GitHub Stats  
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
+
+---
+
+## 📫 Conecta conmigo  
+
+<p align="left">
+  <a href="mailto:kevininsky27@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo: keare27@gmail.com"/>
+  </a>
+  <a href="https://www.facebook.com/kevinalexander.limarecinos" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook: Kevin Alexander Lima R."/>
+  </a>
+  <a href="https://www.instagram.com/ing.kevininsky/?next=%2Fingkevininsky27%2F" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram: @kevininsky27"/>
+  </a>
+</p>
 
 ---
 
